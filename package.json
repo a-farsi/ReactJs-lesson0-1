@@ -2,7 +2,7 @@
   "name": "state-use",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://a-farsi.github.io/ReactJs-lesson0-1",
+  "homepage": "https://a-farsi.github.io/ReactJs-lesson0-1/index.html",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
